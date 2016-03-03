@@ -1,0 +1,49 @@
+CONSPEOTUS NOTARUM.
+
+0 = iim manus codicis Lugduno-Batavi lat. Voss.
+uart. 138.
+Oa = eadem in repetitione.
+02, 04 = aliae manus codicis.
+edd = omnes editiones.
+με editio Gronoviana.
+or = editio Graeciano.
+s= editio Schuetziana.
+Gr = coniectura Graevii. Ἰ
+Or = coniectura Orellii.
+st = coniectura Stanglii.
+(irco = Gronovius.
+
+pag. ‘1—165.
+
+C = Codex palimpsestus Vat. lat. 5750 et Ambros.
+01=d0rlrittiiie primae manus codicis.
+
+02 = secunda manus codicis.
+
+V=cod Vaefles
+
+S= cod. Selisb. 34 nunc Monac. 15734 orationum
+
+T= cod. Tegernseensis 18787 Tullianam,
+
+codd. oe. = consensus codicum
+F·= editio Faerni
+m = editio scholiorum Maiana a.1828.
+o= editio scholiorum Orelliana.
+Mai = coniectura Mai.
+Or = coniectura Orellii.
+Zy = coniectura Ziegleri.
+St = coniectura Stanglii. .
+lac. = lacuna3 indicatum est, quot centrimetros (= om.)
+ct quot litteras (= litt.) contineat. (Animadverten-
+dum est in fine et initio linearum id accurate fieri
+non posse.) Si in compluribus lineis litterae legi
+nequeunt, signo† posito singularum spatia inter
+ψ se divisa sunt.
+[] = delenda.
+< > = supplenda.
+l = finem lineae codicis indicat.
+ΙΙ = finem columnae codicis indicat.
+
+ 
+
